@@ -1,0 +1,9 @@
+{
+  "name": "SpelunkersPosters",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/MineTurtle8586/SpelunkersPosters/",
+  "description": "Adds various randomly changing Posters based on some memes for my friends. :)",
+  "dependencies": [
+    "femboytv-LethalPosters-1.2.3"
+  ]
+}
